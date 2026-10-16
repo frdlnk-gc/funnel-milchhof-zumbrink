@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-maisernte-haecksler.jpg",
+ "fokus": [
+  0.55,
+  0.5
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#004D32",
+ "headline": [
+  "PFLANZENBAU-",
+  "LEITUNG"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Beeskow · Fürstenwalde · Frankfurt (Oder) & Umgebung"
+}

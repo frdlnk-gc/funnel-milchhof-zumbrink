@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-maisernte-abend.jpg",
+  "img/foto-hd-traktor-saatbett.jpg",
+  "img/foto-hd-milchviehstall.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.6
+  ],
+  [
+   0.4,
+   0.6
+  ],
+  [
+   0.5,
+   0.6
+  ]
+ ],
+ "primary": "#004D32",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Pflanzenbau-",
+  "leitung"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Beeskow · Fürstenwalde · Eisenhüttenstadt",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
