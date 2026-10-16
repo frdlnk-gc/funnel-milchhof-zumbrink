@@ -1,0 +1,160 @@
+{
+  "firma": "Milchhof Zumbrink",
+  "stelle": "Pflanzenbauleitung (m/w/d)",
+  "ort": "Beeskow",
+  "plz": "15848",
+  "branche": "landwirtschaft",
+  "farbe_primary": "#004D32",
+  "farbe_secondary": "#707D23",
+  "region_badge": "Beeskow & Umgebung",
+  "benefit_top": "Unbefristet & flexible Arbeitszeiten",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag in Vollzeit",
+    "Flexible Arbeitszeiten",
+    "Interne Karrierechancen",
+    "Flache Hierarchien & freundliches Arbeitsklima",
+    "Hilfe bei der Wohnungssuche",
+    "Firmenhandy"
+  ],
+  "aufgaben": [
+    "Du leitest eigenverantwortlich den Acker- und Futterbau auf rund 1.500 ha",
+    "Du planst alle pflanzenbaulichen Maßnahmen – von Anbauplanung, Aussaat, Düngung und Pflanzenschutz bis zu Ernte und Lagerung",
+    "Du führst das Ackerbauteam und organisierst den Maschineneinsatz inkl. Wartung und Instandhaltung des Maschinenparks",
+    "Du sicherst hochwertiges Grundfutter für die Milchviehhaltung und Substrat für die Biogasanlagen"
+  ],
+  "anforderung": "Studium der Agrarwissenschaften, landwirtschaftliche Meisterausbildung oder vergleichbare Qualifikation – dazu fundierte Praxis im Acker- und Pflanzenbau und Erfahrung mit moderner Landtechnik.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Acker- & Pflanzenbau",
+      "icon": "🌾",
+      "qualifikationen": [
+        {
+          "label": "Studium Agrarwissenschaften",
+          "icon": "🎓"
+        },
+        {
+          "label": "Landwirtschaftsmeister",
+          "icon": "🏅"
+        },
+        {
+          "label": "Agrartechniker",
+          "icon": "📘"
+        },
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "✅"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Futterbau / Milchvieh",
+      "icon": "🐄",
+      "qualifikationen": [
+        {
+          "label": "Studium Agrarwissenschaften",
+          "icon": "🎓"
+        },
+        {
+          "label": "Landwirtschaftsmeister",
+          "icon": "🏅"
+        },
+        {
+          "label": "Agrartechniker",
+          "icon": "📘"
+        },
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "✅"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Andere Landwirtschaft",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Studium Agrarwissenschaften",
+          "icon": "🎓"
+        },
+        {
+          "label": "Landwirtschaftsmeister",
+          "icon": "🏅"
+        },
+        {
+          "label": "Agrartechniker",
+          "icon": "📘"
+        },
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "✅"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Studium in anderem Fach",
+          "icon": "🎓"
+        },
+        {
+          "label": "Ausbildung in anderem Beruf",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "1.500",
+        "label": "Hektar"
+      },
+      {
+        "zahl": "1.000",
+        "label": "Milchkühe"
+      },
+      {
+        "zahl": "35",
+        "label": "Mitarbeiter"
+      }
+    ],
+    "text": "Familiengeführter Milchviehbetrieb in Beeskow: rund 1.000 melkende Holstein-Kühe und 1.500 ha Acker- und Futterbau. Seit 2017 wird der ehemalige LPG-Betrieb kontinuierlich weiterentwickelt – mit modernen Haltungssystemen, erneuerbaren Energien und nachhaltigem Acker- und Futterbau. Dich erwarten kurze Entscheidungswege und ein persönliches Miteinander."
+  },
+  "kunde_tab": "21 Milchhof Zumbrink",
+  "quelle": "https://milchhof-zumbrink.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Beeskow"
+  },
+  "hero_bild": "img/hero-maisernte.jpg",
+  "bilder": [
+    "img/f1-maisernte-abend.jpg",
+    "img/f2-traktor-saatbett.jpg",
+    "img/f3-milchviehstall.jpg",
+    "img/f4-traktor-gruenland.jpg",
+    "img/f5-hofanlage-luftbild.jpg",
+    "img/f6-guelle-fuhrpark.jpg",
+    "img/f7-maehwerk.jpg",
+    "img/f8-guelle-abendrot.jpg"
+  ]
+}
